@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NoteServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-09T15:38:30" hostname="DESKTOP-1E9GUG2" time="0.045">
+  <properties/>
+  <testcase name="getNotes()" classname="NoteServiceTest" time="0.045"/>
+  <system-out><![CDATA[[Note(id=1, date=1, author=.., title=..., text=....., comments=0)]
+Note(id=1, date=1, author=.., title=..., text=....., comments=0)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
